@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# This is the Heading 1
+## This is the Heading 2
+### This is the Heading 3
+###### This is the Heading 6
